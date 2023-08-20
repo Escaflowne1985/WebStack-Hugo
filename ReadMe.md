@@ -7,7 +7,9 @@
 
 先来看一下 [我的主页吧](https://home.datayang.cn/)。由于懒很多icon没有更新，将就能用，个人感觉相比源码来说亮点在于直接更新excel就可以直接导出data目录下webstack.yml文件直接使用。
 
-数据处理格式以及文件脚本再 `data_process` 文件夹下。
+数据处理格式以及文件脚本在 `data_process` 文件夹下。
+
+获取每个网站的icon爬虫脚本图标在`icon_process` 文件夹下。
 
 nginx配置在`conf`文件夹下的`nginx.conf`文件自行配置即可。
 
