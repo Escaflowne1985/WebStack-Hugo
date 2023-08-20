@@ -1,0 +1,41 @@
+安装gohu
+
+下载 wget https://github.com/gohugoio/hugo/releases/download/v0.78.1/hugo_0.78.1_Linux-64bit.deb
+安装 sudo dpkg -i hugo_0.78.1_Linux-64bit.deb
+
+
+1、下载dpkg命令的安装包epel-release-6-8.noarch.rpm
+wget -c http://archives.fedoraproject.org/pub/archive/epel/6/x86_64/epel-release-6-8.noarch.rpm
+2、解压安装包
+rpm -ivh epel-release-6-8.noarch.rpm
+3、输入yum install dpkg后出现报错
+4、下载liblzma.so的安装包xz-compat-libs-5.2.2-1.el7.x86_64.rpm
+wget -c http://mirror.centos.org/centos/7/os/x86_64/Packages/xz-compat-libs-5.2.2-1.el7.x86_64.rpm
+5、解压安装包xz-compat-libs-5.2.2-1.el7.x86_64.rpm
+rpm -ivh xz-compat-libs-5.2.2-1.el7.x86_64.rpm
+6、重新输入yum install dpkg安装dpkg
+
+
+
+$ mkdir /home/shenweiyan/mysite 
+$ cd /home/shenweiyan/mysite
+
+# 安装 WebStack-Hugo 主题
+$ mkdir themes
+$ cd themes
+$ git clone https://github.com/shenweiyan/WebStack-Hugo.git
+
+# 将 exampleSite 目录下的文件复制到 hugo 站点根目录
+$ cd /home/shenweiyan/mysite
+$ cp -r themes/WebStack-Hugo/exampleSite/* ./
+
+# 启动 hugo 站点
+$ hugo server 
+# 如果你知道你的公网 ip, 如下面的 132.76.230.31, 可以使用下面的方式执行 hugo server
+$ hugo server --baseUrl=132.76.230.31 --bind=0.0.0.0 
+
+
+数据更新
+项目根目录下
+cd /Django/WebStackHugo/
+hugo -D

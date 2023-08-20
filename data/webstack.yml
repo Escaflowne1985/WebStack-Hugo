@@ -1,0 +1,839 @@
+- taxonomy: 日常常用
+  icon: fas fa-bars fa-lg
+  list:
+  - term: 通用视频同步
+    links:
+    - title: 西瓜视频
+      logo: 西瓜视频.jpg
+      url: https://studio.ixigua.com/
+      description: 西瓜视频
+    - title: 微信视频号
+      logo: 微信食品号.jpg
+      url: https://channels.weixin.qq.com/
+      description: 微信视频号
+    - title: 抖音
+      logo: 抖音.jpg
+      url: https://creator.douyin.com/
+      description: 抖音
+    - title: 快手
+      logo: 快手.jpg
+      url: https://cp.kuaishou.com/profile
+      description: 快手
+  - term: 文章、视频同步
+    links:
+    - title: 知乎
+      logo: 知乎.jpg
+      url: https://www.zhihu.com/people/Escaflowne1985
+      description: 知乎
+    - title: CSDN
+      logo: CSDN.jpg
+      url: https://blog.csdn.net/qq_20288327
+      description: CSDN
+    - title: 头条号
+      logo: 头条号.jpg
+      url: https://mp.toutiao.com/
+      description: 头条号
+    - title: 哔哩哔哩
+      logo: 哔哩哔哩.jpg
+      url: https://www.bilibili.com/
+      description: 哔哩哔哩
+    - title: 微信公众号
+      logo: 微信公众号.jpg
+      url: https://mp.weixin.qq.com/
+      description: 微信公众号
+  - term: 常用工具
+    links:
+    - title: 百度统计
+      logo: 百度统计.jpg
+      url: https://tongji.baidu.com/web5/welcome/login
+      description: 简易的收取邮箱验证码的平台
+    - title: 接码号
+      logo: 接码号.jpg
+      url: https://jiemahao.com/
+      description: 在线接收短信验证码 临时手机号 虚拟电话号码
+    - title: SMS-Activate
+      logo: SMS-Activate.jpg
+      url: https://sms-activate.org/cn
+      description: 在线接受短信的虚拟号码
+- taxonomy: Python 全栈
+  icon: fas fa-code fa-lg
+  list:
+  - term: API接口
+    links:
+    - title: 百度AI
+      logo: 百度AI.jpg
+      url: https://ai.baidu.com/
+      description: 百度旗下人工智能服务平台
+    - title: 腾讯AI
+      logo: 腾讯AI.jpg
+      url: https://cloud.tencent.com/product/ai-class
+      description: 腾讯旗下人工智能服务平台
+    - title: 阿里AI
+      logo: 阿里AI.jpg
+      url: https://ai.aliyun.com/
+      description: 阿里巴巴旗下人工智能服务平台
+    - title: OpenAI
+      logo: OpenAI.jpg
+      url: https://openai.com/api/
+      description: 美国优秀的API数据应用接口平台
+  - term: 在线开源社区
+    links:
+    - title: modelscope
+      logo: modelscope.jpg
+      url: https://modelscope.cn/home
+      description: 体验各种训练好的先进模型平台
+    - title: HuggingFace
+      logo: HuggingFace.jpg
+      url: https://huggingface.co/IDEA-CCNL
+      description: 开源的NLP自然语言处理平台
+    - title: Lex
+      logo: Lex.jpg
+      url: https://lex.page/
+      description: 开源的NLP自然语言处理平台
+  - term: 编程学习
+    links:
+    - title: w3schools
+      logo: w3schools.jpg
+      url: https://www.w3schools.com/python/
+      description: w3schools的Python编程社区
+    - title: realpython
+      logo: realpython.jpg
+      url: https://realpython.com/learning-paths/
+      description: realpython的学习路径社区
+    - title: geeksforgeeks
+      logo: geeksforgeeks.jpg
+      url: https://www.geeksforgeeks.org/python-programming-language/?ref=shm
+      description: geeksforgeeks的Python编程社区
+    - title: dataflair
+      logo: dataflair.jpg
+      url: https://data-flair.training/blogs/
+      description: 包含Python各种项目实操的社区
+    - title: toukeilab
+      logo: toukeilab.jpg
+      url: https://toukei-lab.com/
+      description: 岛国比较全面的Python社区
+    - title: qiita
+      logo: qiita.jpg
+      url: https://qiita.com/
+      description: 岛国多种编程语言的问答社区
+    - title: machinelearningmastery
+      logo: qiita.jpg
+      url: https://machinelearningmastery.com/blog
+      description: Jason Brownlee的个人博客社区
+  - term: 数据分析
+    links:
+    - title: aitrend
+      logo: aitrend.jpg
+      url: https://ai-trend.jp/
+      description: 包含多种编程语言的数据分析学习社区
+    - title: albert2005
+      logo: albert2005.jpg
+      url: https://www.albert2005.co.jp/knowledge/
+      description: 通俗的讲解数据分析知识的社区
+    - title: 欧拉计划
+      logo: 欧拉计划.jpg
+      url: https://pe-cn.github.io/
+      description: 挑战性的数学与计算机编程题
+  - term: 辅助工具
+    links:
+    - title: regex101
+      logo: regex101.jpg
+      url: https://regex101.com/
+      description: 正则表达式在线编辑工具
+    - title: latexlive公式
+      logo: latexlive公式.jpg
+      url: https://latexlive.com/
+      description: 数学公式在线编辑工具
+  - term: Web模板
+    links:
+    - title: 模板之家
+      logo: 模板之家.jpg
+      url: http://www.cssmoban.com/
+      description: 前端全栈素材
+    - title: 懒人之家
+      logo: 懒人之家.jpg
+      url: https://www.lanrenzhijia.com/
+      description: 前端功能素材
+  - term: 程序安装
+    links:
+    - title: Python官网
+      logo: Python官网.jpg
+      url: https://www.python.org/
+      description: 所有版本python源代码和安装程序
+    - title: Anaconda官网
+      logo: Anaconda官网.jpg
+      url: https://www.anaconda.com/
+      description: 开源的python发行版本
+    - title: whl轮子安装
+      logo: whl轮子安装.jpg
+      url: https://www.lfd.uci.edu/~gohlke/pythonlibs/
+      description: Python的三方插件
+  - term: 代码优化
+    links:
+    - title: md2All
+      logo: md2All.jpg
+      url: http://md.aclickall.com/
+      description: MD代码美化，支持多主题
+  - term: 机器学习
+    links:
+    - title: Sklearn
+      logo: Sklearn源码.jpg
+      url: https://scikit-learn.org/stable/
+      description: Sklearn官方文档
+  - term: 深度学习
+    links:
+    - title: Pytorch
+      logo: Tensorflow.jpg
+      url: https://pytorch.org/
+      description: Pytorch官方文档
+    - title: Tensorflow
+      logo: Tensorflow.jpg
+      url: https://tensorflow.google.cn/
+      description: Tensorflow官方文档
+    - title: Kears
+      logo: Kears.jpg
+      url: https://keras.io/
+      description: Kears官方文档
+  - term: 视频开发
+    links:
+    - title: MoviePy
+      logo: MoviePy源码.jpg
+      url: http://doc.moviepy.com.cn/
+      description: MoviePy官方文档
+  - term: 数据可视化
+    links:
+    - title: PyEchart
+      logo: PyEchart源码.jpg
+      url: https://pyecharts.org/#/zh-cn/intro
+      description: PyEchart官方文档
+    - title: Matplotlib
+      logo: Matplotlib源码.jpg
+      url: https://matplotlib.org/stable/gallery/index.html
+      description: Matplotlib官方文档
+  - term: 网络爬虫
+    links:
+    - title: Scrapy
+      logo: Scrapy源码.jpg
+      url: https://www.osgeo.cn/scrapy/
+      description: Scrapy官方文档
+    - title: 超级鹰
+      logo: 超级鹰.jpg
+      url: http://www.chaojiying.com/
+      description: 验证码识别
+    - title: 协采云
+      logo: 代理云.jpg
+      url: http://xiecaiyun.com/
+      description: 国内比较好的IP代理
+  - term: 网站开发
+    links:
+    - title: Django
+      logo: Django源码.jpg
+      url: https://docs.djangoproject.com/
+      description: Django官方文档
+  - term: 云服务器
+    links:
+    - title: 阿里云
+      logo: 阿里云.jpg
+      url: https://www.aliyun.com/
+      description: 阿里巴巴旗下云服务平台
+    - title: 腾讯云
+      logo: 腾讯云.jpg
+      url: https://cloud.tencent.com/
+      description: 腾讯旗下云服务平台
+- taxonomy: 办公常用
+  icon: fas fa-rss fa-lg
+  list:
+  - term: 语言翻译
+    links:
+    - title: エキサイト 翻訳
+      logo: エキサイト 翻訳.jpg
+      url: https://www.excite.co.jp/world/
+      description: 日语翻译
+    - title: 百度翻译
+      logo: 百度翻译.jpg
+      url: https://fanyi.baidu.com/?aldtype=16047#auto/zh/
+      description: 百度翻译
+    - title: 有道翻译
+      logo: 有道翻译.jpg
+      url: https://fanyi.youdao.com/
+      description: 有道翻译
+    - title: Google 翻译
+      logo: Google 翻译.jpg
+      url: https://translate.google.cn/
+      description: 谷歌翻译
+    - title: 有道图片翻译
+      logo: 有道智能云.png
+      url: https://ai.youdao.com/product-fanyi-picture.s
+      description: 有道图片翻译
+  - term: 文档转换
+    links:
+    - title: 当铺网
+      logo: 当铺网.jpg
+      url: http://www.docpe.com/
+      description: 免费的在线文档转换
+    - title: Smallpdf
+      logo: Smallpdf.jpg
+      url: https://smallpdf.com/
+      description: 多功能的PDF文档转换
+    - title: alltoall
+      logo: alltoall.jpg
+      url: https://www.alltoall.net/
+      description: 免费的在线文档转换
+    - title: onlineconvertfree
+      logo: onlineconvertfree.jpg
+      url: https://onlineconvertfree.com/zh/convert/
+      description: 免费的在线文档转换
+  - term: 软件破解
+    links:
+    - title: 果核剥壳
+      logo: 果核剥壳.jpg
+      url: https://www.ghpym.com/
+      description: 能想到的收费破解软件一应俱全
+  - term: 文档笔记
+    links:
+    - title: 有道云笔记
+      logo: 有道云笔记.jpg
+      url: https://note.youdao.com/web/#/file/recent
+      description: 有道云笔记
+- taxonomy: 产品设计
+  icon: fas fa-flag fa-lg
+  list:
+  - term: 色彩调色
+    links:
+    - title: adobe color
+      logo: adobe color.jpg
+      url: https://color.adobe.com/zh/create/color-wheel
+      description: 色轮、调色产生器
+    - title: palettable
+      logo: palettable.jpg
+      url: https://www.palettable.io/
+      description: 使用数百万设计师的知识来生成漂亮的调色板
+    - title: uisdc
+      logo: uisdc.jpg
+      url: https://color.uisdc.com/
+      description: 配色导航
+  - term: 原型设计
+    links:
+    - title: 即时原型
+      logo: 即时原型.jpg
+      url: https://www.xiaopiu.com/
+      description: 支持APP和Web产品原型设计
+  - term: 文本字体
+    links:
+    - title: 猫啃网
+      logo: 猫啃网.jpg
+      url: https://www.maoken.com/
+      description: 免费商用中英文字体
+    - title: 字体下载
+      logo: 字体下载.jpg
+      url: https://www.qiuziti.com/
+      description: 求字体网提供中文和英文字体库下载、识别与预览服务，找字体的好帮手
+    - title: 100font
+      logo: 100font.jpg
+      url: https://www.100font.com/
+      description: 一个专门收集整理免费商用字体的网站
+- taxonomy: 新媒体素材
+  icon: fas fa-desktop fa-lg
+  list:
+  - term: 素材编辑
+    links:
+    - title: 图怪兽
+      logo: 图怪兽.jpg
+      url: https://818ps.com/
+      description: 在线图片编辑器-PS图片制作
+    - title: 包图网
+      logo: 包图网.jpg
+      url: https://ibaotu.com/
+      description: 专注原创商用设计图片下载
+  - term: 图像处理
+    links:
+    - title: removebg
+      logo: removebg.jpg
+      url: https://www.remove.bg/zh
+      description: 在线抠图软件 图片去除背景
+  - term: 图片素材
+    links:
+    - title: Pixabay
+      logo: Pixabay.jpg
+      url: https://pixabay.com/
+      description: 270万+惊人的免费图像
+    - title: PNG素材网
+      logo: PNG素材网.jpg
+      url: https://www.pngsucai.com/
+      description: 免费高清透明PNG素材资源分享网站
+    - title: PNGBAG素材网
+      logo: PNGBAG.jpg
+      url: https://www.pngbag.com/
+      description: PNG图片素材,背景图片素材免费下载网站
+  - term: 图像素材
+    links:
+    - title: pinterest
+      logo: pinterest.jpg
+      url: https://www.pinterest.com/
+      description: 免费的国外全素材图片
+  - term: 视频素材
+    links:
+    - title: 4K Download
+      logo: PNGBAG.jpg
+      url: https://www.pngbag.com/
+      description: 适用于所有现代平台的免费实用应用程序
+    - title: 33台词
+      logo: 33台词.jpg
+      url: https://33.agilestudio.cn/
+      description: 通过台词找影片素材
+    - title: 悠悠MP4
+      logo: 悠悠MP4.jpg
+      url: https://www.uump4.net/
+      description: 超高清分辨率电影电视剧迅雷下载、bt种子网盘离线下载等资源
+    - title: 阳关电影
+      logo: 阳关电影.jpg
+      url: https://www.ygdy8.net/
+      description: 免费电影下载,电影下载,最新电影
+  - term: 音频素材
+    links:
+    - title: 爱给网
+      logo: 爱给网.jpg
+      url: https://www.aigei.com/
+      description: 音效配乐 3D模型 视频素材 免费下载
+    - title: 耳聆网
+      logo: 耳聆网.jpg
+      url: https://www.ear0.com/
+      description: 听见世界之美 - (声音分享云|音效素材库)
+- taxonomy: 素材数据集
+  icon: fas fa-film fa-lg
+  list:
+  - term: 短视频
+    links:
+    - title: 高贝娱乐
+      logo: 高贝娱乐.jpg
+      url: http://www.gaobei.com/
+      description: 韩国女团饭拍视频
+  - term: 写真图像
+    links:
+    - title: 美女网
+      logo: 美女网.jpg
+      url: https://www.ku138.cc/
+      description: 美女图片、明星图片、唯美图片等高清精美图片大全
+    - title: 美女写真网
+      logo: 美女写真网.jpg
+      url: https://www.hh1234.cc/
+      description: 美女写真网收集大量高清美女壁纸
+- taxonomy: 游戏源码
+  icon: fas fa-paper-plane fa-lg
+  list:
+  - term: 网游单机源码
+    links:
+    - title: 踏月1号论坛
+      logo: 踏月 1号论坛.jpg
+      url: https://www.tayue2013.cn/
+      description: 踏月传奇网游单机论坛
+    - title: 踏月2号论坛
+      logo: 踏月 2号论坛.jpg
+      url: https://www.tayue2013.com/
+      description: 踏月传奇网游单机论坛
+    - title: 踏月3号论坛
+      logo: 踏月 3号论坛.jpg
+      url: https://www.tayue2016.com/
+      description: 踏月传奇网游单机论坛
+    - title: 踏月4号论坛
+      logo: 踏月 4号论坛.jpg
+      url: http://www.ty166.com/
+      description: 踏月传奇网游单机论坛
+  - term: 魔力宝贝专区
+    links:
+    - title: 魔力17173
+      logo: 魔力17173.jpg
+      url: http://cg.17173.com/index.shtml
+      description: 魔力宝贝17173社区
+    - title: 妖城在线
+      logo: 魔力宝贝-妖城在线论坛.jpg
+      url: http://bbs.mocwww.com/
+      description: 妖城在线论坛
+    - title: cgmsv框架
+      logo: 魔力宝贝-妖城在线论坛.jpg
+      url: http://bbs.cgmsv.com/
+      description: cgmsv框架论坛
+    - title: GA框架
+      logo: 魔力宝贝-妖城在线论坛.jpg
+      url: http://bbs.ml30.com/
+      description: GA框架论坛
+  - term: 单机游戏
+    links:
+    - title: Open Source Game Clones
+      logo: Open Source Game Clones.jpg
+      url: https://osgameclones.com/
+      description: '国外单机游戏源码 '
+    - title: Final Fight LNS Ultimate
+      logo: Final Fight LNS Ultimate.jpg
+      url: https://fflnsultimate.firebaseapp.com/home
+      description: 国外单机FF LNS游戏源码
+- taxonomy: 综合数据
+  icon: fas fa-database fa-lg
+  list:
+  - term: 知识百科
+    links:
+    - title: 维基百科
+      logo: 维基百科.jpg
+      url: https://www.wikipedia.org/
+      description: 维基百科
+  - term: 学术理论
+    links:
+    - title: 谷歌学术
+      logo: 谷歌学术.jpg
+      url: http://scholar.scqylaw.com/
+      description: 谷歌学术镜像
+    - title: 知网
+      logo: 知网.jpg
+      url: https://www.cnki.net/
+      description: 中国知网
+  - term: 知识产权
+    links:
+    - title: 度衍
+      logo: 度衍.jpg
+      url: https://www.uyanip.com/
+      description: 免费的知识产权搜索工具
+  - term: 资料报告
+    links:
+    - title: 并购家
+      logo: 并购家.jpg
+      url: http://ipoipo.cn/
+      description: 行业报告文档
+  - term: 通用社区论坛
+    links:
+    - title: BBS经管之家
+      logo: BBS经管之家.jpg
+      url: https://bbs.pinggu.org/
+      description: 人大经济论坛
+    - title: quora
+      logo: quora.jpg
+      url: https://www.quora.com/
+      description: 国外的知乎
+- taxonomy: 算法应用数据
+  icon: fas fa-archive fa-lg
+  list:
+  - term: 房地产数据集
+    links:
+    - title: The Boston Housing Dataset （波士顿住房数据集）
+      logo: The Boston Housing Dataset （波士顿住房数据集）.jpg
+      url: https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset/notebook
+      description: 波士顿住房数据集
+    - title: Zillow （房地产研究网站 ）
+      logo: Zillow （房地产研究网站 ）.jpg
+      url: https://www.zillow.com/research/data/
+      description: 房地产行业相关数据
+  - term: 机器学习项目的音频语音和音乐数据集
+    links:
+    - title: Common Voice(共同的声音)
+      logo: Common Voice(共同的声音).jpg
+      url: https://voice.mozilla.org/en/datasets
+      description: 开源的多语言语音数据集
+    - title: LibriSpeech（图书馆演讲）
+      logo: LibriSpeech（图书馆演讲）.jpg
+      url: http://www.openslr.org/12/
+      description: 包含有声读物数据集
+    - title: Spoken Wikipedia Corpora（口语维基百科语料库）
+      logo: Spoken Wikipedia Corpora（口语维基百科语料库）.jpg
+      url: https://nats.gitlab.io/swc/
+      description: 口语维基百科语料库
+    - title: VoxForge
+      logo: VoxForge.jpg
+      url: http://www.voxforge.org/
+      description: 开放的语音数据集
+    - title: Free Music Archive (FMA)（免费音乐档案 (FMA)）
+      logo: Free Music Archive (FMA)（免费音乐档案 (FMA)）.jpg
+      url: https://github.com/mdeff/fma
+      description: 提供用于音乐分析的数据集
+    - title: Ballroom
+      logo: Ballroom.jpg
+      url: http://mtg.upf.edu/ismir2004/contest/tempoContest/node5.html
+      description: 提供交谊舞曲及在线课程
+    - title: YouTube 8M
+      logo: YouTube 8M.jpg
+      url: https://research.google.com/youtube8m/
+      description: '-'
+    - title: AudioSet（音频集）
+      logo: AudioSet（音频集）.jpg
+      url: https://research.google.com/audioset/
+      description: '-'
+    - title: FSD
+      logo: FSD.jpg
+      url: https://annotator.freesound.org/fsd/
+      description: 大规模的通用音频数据集
+    - title: Free Music Archive
+      logo: Free Music Archive.jpg
+      url: http://www.cubancouncil.com/work/project/free-music-archive
+      description: 免费收听、下载、流式传输音乐
+  - term: 计算机视觉的图像数据集
+    links:
+    - title: 'Open Images V6 （谷歌的开放图像数据集） '
+      logo: Open Images V6 （谷歌的开放图像数据集） .jpg
+      url: https://storage.googleapis.com/openimages/web/index.html
+      description: 谷歌的开放图像数据集
+    - title: VisualData（视觉数据）
+      logo: VisualData（视觉数据）.jpg
+      url: https://visualdata.io/discovery
+      description: 计算机视觉数据集
+    - title: xView
+      logo: xView.jpg
+      url: http://xviewdataset.org/#dataset
+      description: 最大的公开可用的俯视图像数据集之一
+    - title: Kinetics-700
+      logo: Kinetics-700.jpg
+      url: https://www.deepmind.com/open-source/kinetics
+      description: 视频剪辑的大规模高质量URL链接数据集
+    - title: ImageNet（图片网络）
+      logo: ImageNet（图片网络）.jpg
+      url: https://image-net.org/
+      description: 免费的图像数据库
+    - title: Visual QA（视觉问答）
+      logo: Visual QA（视觉问答）.jpg
+      url: https://visualqa.org/
+      description: 针对图像作答的数据集
+    - title: MNIST
+      logo: MNIST.jpg
+      url: http://yann.lecun.com/exdb/mnist/
+      description: 手写数字数据库
+    - title: CIFAR-10
+      logo: CIFAR-10.jpg
+      url: https://www.cs.toronto.edu/~kriz/cifar.html
+      description: 用户识别普适物体的小型数据集
+    - title: COCO
+      logo: COCO.jpg
+      url: https://cocodataset.org/#home
+      description: 微软团队图像识别数据集
+    - title: Labeled Faces in the Wild（标记的面孔）
+      logo: Labeled Faces in the Wild（标记的面孔）.jpg
+      url: http://vis-www.cs.umass.edu/lfw/
+      description: 人脸数据库
+    - title: Labelme
+      logo: Labelme.jpg
+      url: http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php
+      description: 免费数据标注
+    - title: 'LSUN '
+      logo: LSUN .jpg
+      url: https://paperswithcode.com/paper/lsun-construction-of-a-large-scale-image
+      description: 大规模图像数据集
+    - title: COIL100
+      logo: COIL100.jpg
+      url: http://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php
+      description: 哥伦比亚大学图像数据库
+    - title: Visual Genome（视觉基因组）
+      logo: Visual Genome（视觉基因组）.jpg
+      url: http://visualgenome.org/
+      description: 一个将图像与结构化语言联系起来的数据集
+    - title: Google’s Open Images（谷歌开放图像）
+      logo: Google’s Open Images（谷歌开放图像）.jpg
+      url: https://ai.googleblog.com/2016/09/introducing-open-images-dataset.html
+      description: '-'
+    - title: Indoor Scene Recognition（室内场景识别）
+      logo: Indoor Scene Recognition（室内场景识别）.jpg
+      url: http://web.mit.edu/torralba/www/indoor.html
+      description: 包含大量室内场景的数据集
+    - title: CelebFaces（名人面孔）
+      logo: CelebFaces（名人面孔）.jpg
+      url: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+      description: 大规模名人面孔数据集
+    - title: Stanford Dogs Dataset（斯坦福犬数据集）
+      logo: Stanford Dogs Dataset（斯坦福犬数据集）.jpg
+      url: http://vision.stanford.edu/aditya86/ImageNetDogs/
+      description: 斯坦福犬数据集
+    - title: Places
+      logo: Places.jpg
+      url: http://places.csail.mit.edu/index.html
+      description: 麻省理工学院场景识别地点数据库
+    - title: Cityscapes Dataset（城市景观数据集）
+      logo: Cityscapes Dataset（城市景观数据集）.jpg
+      url: https://www.cityscapes-dataset.com/
+      description: 城市景观数据集
+  - term: 健康医疗行业的数据集
+    links:
+    - title: MIMIC-III
+      logo: MIMIC-III.jpg
+      url: https://mimic.mit.edu/
+      description: 免费提供用于研究的医疗数据
+    - title: Medical Imaging Annotation - V7 Darwin
+      logo: Medical Imaging Annotation - V7 Darwin.jpg
+      url: https://www.v7labs.com/medical-imaging-annotation
+      description: 支持不同领域的医学成像
+    - title: US Healthcare Data（美国医疗保健数据）
+      logo: US Healthcare Data（美国医疗保健数据）.jpg
+      url: https://researchguides.dartmouth.edu/
+      description: 达特茅斯图书馆
+  - term: 教育行业数据集
+    links:
+    - title: NEES（美国国家教育统计中心）
+      logo: NEES（美国国家教育统计中心）.jpg
+      url: https://nces.ed.gov/
+      description: 收集和分析与教育相关的数据的主要联邦实体
+    - title: Data Catalog （世界银行全球教育统计数据集 ）
+      logo: Data Catalog （世界银行全球教育统计数据集 ）.jpg
+      url: https://datacatalog.worldbank.org/dataset/education-statistics
+      description: 世界银行全球教育统计数据集
+  - term: 金融和经济学的机器学习数据集
+    links:
+    - title: Global Financial Development (GFD)（全球金融发展 (GFD)）
+      logo: Global Financial Development (GFD)（全球金融发展 (GFD)）.jpg
+      url: https://www.worldbank.org/en/publication/gfdr/data/global-financial-development-database
+      description: 全球金融发展数据库
+    - title: Financial Times Markets Data（金融时报市场数据）
+      logo: Financial Times Markets Data（金融时报市场数据）.jpg
+      url: https://www.ft.com/markets
+      description: 金融时报市场数据
+    - title: Quandl
+      logo: Quandl.jpg
+      url: https://data.nasdaq.com/
+      description: 金融、经济和另类数据集的主要来源
+    - title: IMF Data（国际货币基金组织数据）
+      logo: IMF Data（国际货币基金组织数据）.jpg
+      url: https://www.imf.org/en/Data
+      description: 国际货币基金组织数据
+    - title: American Economic Association (AEA)（美国经济协会 (AEA)）
+      logo: American Economic Association (AEA)（美国经济协会 (AEA)）.jpg
+      url: https://www.aeaweb.org/resources/data/
+      description: 提供经济学数据源
+    - title: EOD（股票价格）
+      logo: EOD（股票价格）.jpg
+      url: https://eoddata.com/
+      description: 世界第一的历史股票数据
+    - title: World Bank （世界银行）
+      logo: World Bank （世界银行）.jpg
+      url: https://data.worldbank.org.cn/
+      description: 世界银行数据集
+  - term: 通用机器学习数据集成平台
+    links:
+    - title: 'kaggle '
+      logo: kaggle .jpg
+      url: https://www.kaggle.com/
+      description: 数据挖掘和预测竞赛
+    - title: Google Dataset Search
+      logo: Google Dataset Search.jpg
+      url: https://datasetsearch.research.google.com/
+      description: '-'
+    - title: Registry of Open Data on AWS
+      logo: Registry of Open Data on AWS.jpg
+      url: https://registry.opendata.aws/
+      description: 找到通过AWS公开的数据集
+    - title: Microsoft Azure Public Datasets
+      logo: Microsoft Azure Public Datasets.jpg
+      url: https://docs.microsoft.com/en-us/azure/azure-sql/public-data-sets
+      description: 用于测试和原型设计的公共数据集
+    - title: r/datasets
+      logo: rdatasets.jpg
+      url: https://www.reddit.com
+      description: '-'
+    - title: CMU Libraries
+      logo: CMU Libraries.jpg
+      url: https://guides.library.cmu.edu/az.php
+      description: 卡内基梅隆大学数据库
+    - title: UCI Machine Learning Repository
+      logo: UCI Machine Learning Repository.jpg
+      url: https://archive.ics.uci.edu/ml/index.php
+      description: 加州大学欧文分校机器学习存储库
+    - title: Awesome Public Datasets on Github
+      logo: Awesome Public Datasets on Github.jpg
+      url: https://github.com/awesomedata/awesome-public-datasets#machinelearning
+      description: 高质量公共数据集
+    - title: Data World
+      logo: Data World.jpg
+      url: https://data.world/
+      description: 现代数据堆栈的企业数据目录
+    - title: CERN Open Data Portal
+      logo: CERN Open Data Portal.jpg
+      url: http://opendata.cern.ch/
+      description: 粒子物理学的开放数据
+    - title: Lionbridge AI Datasets
+      logo: Lionbridge AI Datasets.jpg
+      url: https://lionbridge.ai/datasets/
+      description: 数据收集、注释和验证
+    - title: EU Open Data Portal
+      logo: EU Open Data Portal.jpg
+      url: https://data.europa.eu/data/datasets?locale=en
+      description: 提供欧盟收集购买的数据集
+    - title: 'Datahub '
+      logo: Datahub .jpg
+      url: https://datahub.io/search
+      description: 提供成千上万的数据集
+  - term: 推荐系统应用数据集
+    links:
+    - title: Amazon review data（亚马逊产品数据）
+      logo: Amazon review data（亚马逊产品数据）.jpg
+      url: http://jmcauley.ucsd.edu/data/amazon/links.html
+      description: 亚马逊产品数据
+    - title: 'MovieLens '
+      logo: MovieLens .jpg
+      url: https://grouplens.org/datasets/movielens/100k/
+      description: 电影镜头 100K 数据集
+    - title: Jester Collaborative Filtering Dataset （Jester 协同过滤数据集)
+      logo: Jester Collaborative Filtering Dataset （Jester 协同过滤数据集).jpg
+      url: https://goldberg.berkeley.edu/jester-data/
+      description: Jester 协同过滤数据集
+  - term: 自然语言处理数据集
+    links:
+    - title: The NLP Index（NLP 指数）
+      logo: The NLP Index（NLP 指数）.jpg
+      url: https://index.quantumstat.com/
+      description: 一键查找论文、GitHub库
+    - title: Enron Email Dataset（安然电子邮件数据集）
+      logo: Enron Email Dataset（安然电子邮件数据集）.jpg
+      url: https://www.cs.cmu.edu/~enron/
+      description: 安然电子邮件数据集
+    - title: Google Books Ngram Viewer（Google 图书 Ngram 查看器）
+      logo: Google Books Ngram Viewer（Google 图书 Ngram 查看器）.jpg
+      url: https://books.google.com/ngrams
+      description: '-'
+    - title: The Wikipedia Corpus（维基百科语料库）
+      logo: The Wikipedia Corpus（维基百科语料库）.jpg
+      url: https://www.english-corpora.org/wiki/
+      description: 维基百科语料库
+    - title: SMS Spam Collection in English（英文垃圾短信收集）
+      logo: SMS Spam Collection in English（英文垃圾短信收集）.jpg
+      url: https://www.kaggle.com/uciml/sms-spam-collection-dataset
+      description: 垃圾邮件收集数据集
+    - title: Multidomain Sentiment Analysis Dataset（多域情感分析数据集）
+      logo: Multidomain Sentiment Analysis Dataset（多域情感分析数据集）.jpg
+      url: https://www.cs.jhu.edu/~mdredze/datasets/sentiment/
+      description: 多域情绪分析数据集
+    - title: Stanford Sentiment Treebank（斯坦福情绪树库）
+      logo: Stanford Sentiment Treebank（斯坦福情绪树库）.jpg
+      url: https://nlp.stanford.edu/sentiment/code.html
+      description: 斯坦福情绪树库
+    - title: Sentiment140
+      logo: Sentiment140.jpg
+      url: http://help.sentiment140.com/for-students/
+      description: 非开源情绪分析
+    - title: Twitter US Airline Sentiment（Twitter 美国航空公司情感）
+      logo: Twitter US Airline Sentiment（Twitter 美国航空公司情感）.jpg
+      url: https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
+      description: Twitter 美国航空公司情感
+    - title: OpinRank Review Dataset（OpinRank 审查数据集）
+      logo: OpinRank Review Dataset（OpinRank 审查数据集）.jpg
+      url: http://archive.ics.uci.edu/ml/datasets/opinrank+review+dataset
+      description: OpinRank审查数据集
+    - title: Amazon Review Data (2018)（亚马逊评论数据 (2018)）
+      logo: Amazon Review Data (2018)（亚马逊评论数据 (2018)）.jpg
+      url: https://nijianmo.github.io/amazon/index.html
+      description: 亚马逊评论数据 （2018）
+    - title: Sentiment Lexicons for 81 Languages（81 种语言的情感词典）
+      logo: Sentiment Lexicons for 81 Languages（81 种语言的情感词典）.jpg
+      url: https://www.kaggle.com/datasets/rtatman/sentiment-lexicons-for-81-languages
+      description: 81 种语言的情感词典
+    - title: Legal Case Reports Dataset（法律案例报告数据集）
+      logo: Legal Case Reports Dataset（法律案例报告数据集）.jpg
+      url: https://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports
+      description: 法律案件报告数据集
+    - title: WordNet
+      logo: WordNet.jpg
+      url: https://wordnet.princeton.edu/
+      description: 英语词汇数据库
+    - title: 20 Newsgroups（20 个新闻组）
+      logo: 20 Newsgroups（20 个新闻组）.jpg
+      url: http://qwone.com/~jason/20Newsgroups/
+      description: 20 个新闻组数据集
+    - title: IMDB Movie Reviews Dataset（IMDB 电影评论数据集）
+      logo: IMDB Movie Reviews Dataset（IMDB 电影评论数据集）.jpg
+      url: http://ai.stanford.edu/~amaas/data/sentiment/
+      description: 大型电影评论数据集
+    - title: Yelp Reviews（Yelp 评论）
+      logo: Yelp Reviews（Yelp 评论）.jpg
+      url: https://www.yelp.com/dataset
+      description: 用于学习的通用数据集
